@@ -17,7 +17,7 @@ You need a C++ compiler (like G++) installed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/StanleyPangaruy/cpp-todo-list.git](https://github.com/StanleyPangaruy/cpp-todo-list.git)
+    git clone https://github.com/StanleyPangaruy/cpp-todo-list.git
     cd cpp-todo-list
     ```
 
